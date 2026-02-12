@@ -1,0 +1,14 @@
+# Secrets — КРИТИЧНО: никогда не коммитить!
+config/vault/keys.enc
+compose/.env
+vault-keys.txt
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
